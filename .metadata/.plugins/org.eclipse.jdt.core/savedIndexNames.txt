@@ -1,3 +1,2 @@
 INDEX VERSION 1.131+C:\Users\Gabs\Documents\WS\ws-gabs\DashBoard-De-Vendas\.metadata\.plugins\org.eclipse.jdt.core
-1654830764.index
 1865797976.index
