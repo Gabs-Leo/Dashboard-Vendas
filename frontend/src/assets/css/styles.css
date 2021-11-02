@@ -23,6 +23,10 @@ a{
     height: 100%;
 }
 
+.logo{
+    width: 40px;
+}
+
 .content{
     flex: 1 0 auto;
 }
