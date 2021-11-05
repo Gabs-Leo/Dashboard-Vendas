@@ -29,14 +29,15 @@ INDEX VERSION 1.131+C:\Users\Gabs\Documents\WS\ws-gabs\DashBoard-De-Vendas\.meta
 590784879.index
 208748682.index
 2625192524.index
-2452382485.index
-3637323815.index
 4206755656.index
+3637323815.index
+2452382485.index
 1641994853.index
 3307345306.index
 3020708504.index
 134216978.index
 1916183329.index
+1965174767.index
 2852806230.index
 2664469921.index
 2780372947.index
@@ -66,6 +67,7 @@ INDEX VERSION 1.131+C:\Users\Gabs\Documents\WS\ws-gabs\DashBoard-De-Vendas\.meta
 1291002252.index
 3314843632.index
 2315310435.index
+2431957261.index
 3762591504.index
 3580400854.index
 2783996578.index
